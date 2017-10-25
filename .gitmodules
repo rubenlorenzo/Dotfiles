@@ -1,0 +1,45 @@
+[submodule "vim/bundle/neobundle.vim"]
+	path = vim/bundle/neobundle.vim
+	url = ./vim/bundle/emmet-vim
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = ./vim/bundle/emmet-vim/
+[submodule "nerdtree"]
+	path = nerdtree
+	url = ./vim/bundle/nerdtree
+[submodule "nerdtree-git-plugin"]
+	path = nerdtree-git-plugin
+	url = ./vim/bundle/nerdtree-git-plugin/
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = ./vim/bundle/vim-colors-solarized
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = ./vim/bundle/vim-gitgutter/
+[submodule "vim-instant-markdown"]
+	path = vim-instant-markdown
+	url = ./vim/bundle/vim-instant-markdown/
+[submodule "youcompleteme"]
+	path = youcompleteme
+	url = ./vim/bundle/youcompleteme/
+[submodule "vim/bundle/nerdtree"]
+	path = vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "vim/bundle/emmet-vim"]
+	path = vim/bundle/emmet-vim
+	url = https://github.com/mattn/emmet-vim
+[submodule "vim/bundle/nerdtree-git-plugin"]
+	path = vim/bundle/nerdtree-git-plugin
+	url = https://github.com/xuyuanp/nerdtree-git-plugin
+[submodule "vim/bundle/vim-colors-solarized"]
+	path = vim/bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "vim/bundle/youcompleteme"]
+	path = vim/bundle/youcompleteme
+	url = https://github.com/valloric/youcompleteme
+[submodule "vim/bundle/vim-gitgutter"]
+	path = vim/bundle/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "vim/bundle/vim-instant-markdown"]
+	path = vim/bundle/vim-instant-markdown
+	url = https://github.com/suan/vim-instant-markdown
