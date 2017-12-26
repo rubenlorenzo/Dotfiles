@@ -43,3 +43,6 @@
 [submodule "vim/bundle/javascript-libraries-syntax.vim"]
 	path = vim/bundle/javascript-libraries-syntax.vim
 	url = git://https://github.com/othree/javascript-libraries-syntax.vim
+[submodule "vim/bundle/vim-vue"]
+	path = vim/bundle/vim-vue
+	url = git://https://github.com/posva/vim-vue.git
