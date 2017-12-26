@@ -46,3 +46,6 @@
 [submodule "vim/bundle/vim-vue"]
 	path = vim/bundle/vim-vue
 	url = git://https://github.com/posva/vim-vue.git
+[submodule "vim/bundle/vim-airline"]
+	path = vim/bundle/vim-airline
+	url = git://https://github.com/bling/vim-airline
